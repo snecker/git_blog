@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/linux/ufw 防火墙简单设置.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven/maven 运行时候排除某些模块.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nginx/nginx websocket 连接 每隔一断时间自己断掉.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/windows/how-to-create-alias-permanantly-in-windows.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/windows/修改hosts文件之后不生效.md" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
