@@ -1,17 +1,17 @@
-ÔÚsrc/main/resourcesÏÂÓĞ
+ï»¿åœ¨src/main/resourcesä¸‹æœ‰
 ```
 config/application-local.properties
 config/application-test.properties
 config/application-prod.properties
 ```
-Èı¸öÎÄ¼ş
-ÔÚÈë¿ÚrunnerÀàÖĞÉùÃ÷
+ä¸‰ä¸ªæ–‡ä»¶
+åœ¨å…¥å£runnerç±»ä¸­å£°æ˜
 ```
 @PropertySource("config/application-${spring.profiles.active:local}.properties")
 ```
-¿ÉÒÔÒıÓÃ¶ÔÓ¦profileµÄÎÄ¼ş
+å¯ä»¥å¼•ç”¨å¯¹åº”profileçš„æ–‡ä»¶
 
-ÔÚµ¥Ôª²âÊÔÖĞÉùÃ÷
+åœ¨å•å…ƒæµ‹è¯•ä¸­å£°æ˜
 ```
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringApplicationConfiguration(classes = RUNNER.class)
